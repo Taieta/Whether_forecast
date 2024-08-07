@@ -54,3 +54,6 @@ fabric.properties
 *.exe
 *.out
 *.app
+
+# compile commands
+compile_commands.json
