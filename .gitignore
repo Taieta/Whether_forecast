@@ -57,3 +57,4 @@ fabric.properties
 
 # compile commands
 compile_commands.json
+.cache
